@@ -1,6 +1,7 @@
 # IMDb Popularity Video Games Dataset
 
-This package contains a script for web scraping video games listed on IMDb's popularity ranking, providing a the resulting dataset and the images of the video game's posters. The project has been developed by Miguel Casasnovas Bielsa and Marc Asenjo.
+This package contains a script for web scraping video games listed on IMDb's popularity ranking, providing the resulting dataset and the images of the video game's posters. The scraping has been done for personal and academic purposes. The project has been developed by Miguel Casasnovas Bielsa and Marc Asenjo. 
+You can access the dataset also via the Zenodo link: (https://zenodo.org/doi/10.5281/zenodo.10982151).
 
 "Information courtesy of IMDb (https://www.imdb.com)."
 
